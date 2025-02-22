@@ -1,7 +1,7 @@
 layers:
   default:
   - {t: ']', h: Gui}
-  - Q
+  - W
   - W
   - E
   - R
